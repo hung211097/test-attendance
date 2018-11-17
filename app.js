@@ -16,7 +16,7 @@ var swaggerDefinition = {
     version: '1.0.0',
     description: 'Demonstrating how to use DiemDanh API with your application',
   },
-  host: 'https://parkhangseo-app.herokuapp.com',
+  host: 'https://test-attendance12.herokuapp.com',
   basePath: '/',
 };
 
